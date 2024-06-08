@@ -104,7 +104,3 @@ The `Compact Folders` setting in Visual Studio Code controls whether folders are
 The `Snippet Suggestions` setting in Visual Studio Code controls whether snippet suggestions are shown in the editor. Snippets are predefined code templates that can be inserted into your code files to expedite common coding tasks, such as creating loops, functions, or HTML elements. Enabling snippet suggestions enhances your coding efficiency by providing quick access to these reusable code snippets directly within the editor.
 
     Setting -> Editor: Snippet Suggestions
-
-```
-
-```
