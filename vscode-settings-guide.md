@@ -1,20 +1,16 @@
 ## Getting Started
 
-This guide provides recommendations for configuring and optimizing Visual Studio Code ([VS Code](https://code.visualstudio.com/)) to enhance your coding experience. Each setting can be adjusted to suit your preferences and workflow.
+This guide provides recommendations for configuring and optimizing Visual Studio Code ([VS Code](https://code.visualstudio.com/)) to enhance your coding experience. Each setting can be adjusted to suit your preferences and workflow, making VS Code a powerful and efficient tool for development. These settings are part of the Evondev custom configuration for Visual Studio Code, which includes additional features like tab customization and more.
 
 ## Get involved
 
-### Smooth Caret Animation
+**Smooth Caret Animation**
 
-Setting -> `Editor: Cursor Smooth Caret Animation`
+`The smooth caret animation setting` in Visual Studio Code controls the visual smoothness of the cursor movement within the editor. Enabling smooth caret animation makes the cursor transition between positions more fluid, resulting in a more visually appealing and less straining experience.
 
-Enables or disables smooth animation for the cursor caret in the editor.
+**Show Abbreviation Suggestions**
 
-### Show Abbreviation Suggestions
-
-Setting: `Emmet: Show Abbreviation Suggestions`
-
-Controls whether abbreviation suggestions are displayed while using Emmet abbreviations.
+`The Emmet: Show Abbreviation Suggestions` setting in Visual Studio Code is a powerful feature that enhances your coding efficiency by providing real-time abbreviation suggestions. Emmet, a toolkit for web developers, significantly speeds up the process of writing HTML, XML, and CSS by allowing you to type short, concise abbreviations that expand into full-fledged code snippets.
 
 ### Emmet: Include Languages
 
