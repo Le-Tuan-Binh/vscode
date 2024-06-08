@@ -2,7 +2,9 @@
 
 Welcome to the world of Visual Studio Code (VS Code) extensions! These extensions are powerful tools that can greatly enhance your coding experience and productivity. Below, I'll guide you through some essential extensions to help you get started and make the most out of your coding journey
 
-# 1. Auto rename tag
+## Getting Involved
+
+[**Auto rename tag**](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 
 # 2. Color Highlight
 
