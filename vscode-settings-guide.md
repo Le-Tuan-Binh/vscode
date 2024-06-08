@@ -8,17 +8,34 @@ This guide provides recommendations for configuring and optimizing Visual Studio
 
 `The smooth caret animation setting` in Visual Studio Code controls the visual smoothness of the cursor movement within the editor. Enabling smooth caret animation makes the cursor transition between positions more fluid, resulting in a more visually appealing and less straining experience.
 
+    Setting -> Editor: Cursor Smooth Caret Animation -> On
+
 **Show Abbreviation Suggestions**
 
 `The Emmet: Show Abbreviation Suggestions` setting in Visual Studio Code is a powerful feature that enhances your coding efficiency by providing real-time abbreviation suggestions. Emmet, a toolkit for web developers, significantly speeds up the process of writing HTML, XML, and CSS by allowing you to type short, concise abbreviations that expand into full-fledged code snippets.
+
+    Setting -> Emmet: Show Abbreviation Suggestions -> Tick
 
 **Emmet: Include Languages**
 
 The Emmet: Include Languages setting in Visual Studio Code is a crucial customization that allows you to specify the list of languages where Emmet abbreviations are enabled.
 
+    Setting -> Emmet: Include Languages -> Add a JSON
+
+    ```json
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "vue-html": "html",
+        "smarty": "html",
+        "typescript": "typescriptreact"
+    },
+    ```
+
 **Emmet: Trigger Expansion On Tab**
 
 `Enabling the Emmet`: Trigger Expansion On Tab setting in Visual Studio Code is a powerful way to enhance your coding efficiency and streamline your workflow. By allowing the tab key to trigger Emmet abbreviation expansions, you can write code faster, reduce errors, and maintain a consistent and intuitive coding process. Customize this setting to fit your specific needs and enjoy a more productive and enjoyable development experience.
+
+    Setting -> Emmet: Trigger Expansion On Tab -> Tick
 
 **Editor: Cursor Style**
 
@@ -27,6 +44,8 @@ The Editor: `Cursor Style setting` in Visual Studio Code allows users to specify
 **Editor: Cursor Blinking**
 
 The Editor: `Cursor Blinking` setting in Visual Studio Code controls the blinking behavior of the cursor in the editor. This setting allows users to customize how the cursor appears and blinks, providing flexibility to match individual preferences and improve the coding experience.
+
+    Setting -> Editor: Cursor Blinking -> expand
 
 **Visual Code Font Ligatures**
 
