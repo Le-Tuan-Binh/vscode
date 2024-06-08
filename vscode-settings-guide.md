@@ -23,12 +23,12 @@ The Emmet: Include Languages setting in Visual Studio Code is a crucial customiz
 ```js
 Setting -> Emmet: Include Languages -> Add a JSON
 
-    "emmet.includeLanguages": {
-        "javascript": "javascriptreact",
-        "vue-html": "html",
-        "smarty": "html",
-        "typescript": "typescriptreact"
-    },
+"emmet.includeLanguages": {
+	"javascript": "javascriptreact",
+	"vue-html": "html",
+	"smarty": "html",
+	"typescript": "typescriptreact"
+},
 ```
 
 **Emmet: Trigger Expansion On Tab**
