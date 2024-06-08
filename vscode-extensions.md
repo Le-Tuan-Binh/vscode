@@ -6,9 +6,9 @@ Welcome to the world of Visual Studio Code (VS Code) extensions! These extension
 
 [**Auto rename tag**](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) is an extension use for automatically rename paired HTML/XML tag, same as Visual Studio IDE does.
 
-# 2. Color Highlight
+[**Color Highlight**](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) is an extensions use for styles css/web colors found in your document.
 
--   Setting -> Color-highlight: Marker Type
+    Setting -> Color-highlight: Marker Type
 
 # 3. Console Ninja
 
