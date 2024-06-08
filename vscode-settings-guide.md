@@ -20,7 +20,7 @@ This guide provides recommendations for configuring and optimizing Visual Studio
 
 The Emmet: Include Languages setting in Visual Studio Code is a crucial customization that allows you to specify the list of languages where Emmet abbreviations are enabled.
 
-    Setting -> Emmet: Include Languages -> Add a JSON
+    ```Setting -> Emmet: Include Languages -> Add a JSON```
 
     ```json
     "emmet.includeLanguages": {
