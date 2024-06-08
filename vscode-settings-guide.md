@@ -20,16 +20,16 @@ This guide provides recommendations for configuring and optimizing Visual Studio
 
 The Emmet: Include Languages setting in Visual Studio Code is a crucial customization that allows you to specify the list of languages where Emmet abbreviations are enabled.
 
-    Setting -> Emmet: Include Languages -> Add a JSON
+```js
+Setting -> Emmet: Include Languages -> Add a JSON
 
-    ```json
     "emmet.includeLanguages": {
         "javascript": "javascriptreact",
         "vue-html": "html",
         "smarty": "html",
         "typescript": "typescriptreact"
     },
-    ```
+```
 
 **Emmet: Trigger Expansion On Tab**
 
@@ -104,3 +104,7 @@ The `Compact Folders` setting in Visual Studio Code controls whether folders are
 The `Snippet Suggestions` setting in Visual Studio Code controls whether snippet suggestions are shown in the editor. Snippets are predefined code templates that can be inserted into your code files to expedite common coding tasks, such as creating loops, functions, or HTML elements. Enabling snippet suggestions enhances your coding efficiency by providing quick access to these reusable code snippets directly within the editor.
 
     Setting -> Editor: Snippet Suggestions
+
+```
+
+```
