@@ -4,7 +4,7 @@ Welcome to the world of Visual Studio Code (VS Code) extensions! These extension
 
 ## Getting Involved
 
-[**Auto rename tag**](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+[**Auto rename tag**](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) is an extension use for automatically rename paired HTML/XML tag, same as Visual Studio IDE does.
 
 # 2. Color Highlight
 
