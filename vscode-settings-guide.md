@@ -4,7 +4,7 @@ This guide provides recommendations for configuring and optimizing Visual Studio
 
 ## Get involved
 
-### Smooth Caret Animation
+#### Smooth Caret Animation
 
 Setting -> `Editor: Cursor Smooth Caret Animation`
 
