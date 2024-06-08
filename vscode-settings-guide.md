@@ -1,12 +1,10 @@
 ## Getting Started
 
-===
-
 This guide provides recommendations for configuring and optimizing Visual Studio Code ([VS Code](https://code.visualstudio.com/)) to enhance your coding experience. Each setting can be adjusted to suit your preferences and workflow.
 
+## Get involved
 
-## Some of extension help your experiences
-## 1. Smooth Caret Animation
+	1. Smooth Caret Animation
 
 Setting: `Editor: Cursor Smooth Caret Animation`
 
