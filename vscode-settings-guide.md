@@ -7,6 +7,7 @@ This guide provides recommendations for configuring and optimizing Visual Studio
     Smooth Caret Animation
 
 Setting -> `Editor: Cursor Smooth Caret Animation`
+
 Enables or disables smooth animation for the cursor caret in the editor.
 
 ## 2. Show Abbreviation Suggestions
