@@ -24,72 +24,64 @@ The Emmet: Include Languages setting in Visual Studio Code is a crucial customiz
 
 The Editor: `Cursor Style setting` in Visual Studio Code allows users to specify the appearance and behavior of the cursor in the code editor. This customization can enhance the coding experience by making the cursor more visible and easier to track, which is particularly beneficial during extended coding sessions or when working with complex codebases. The cursor style can be adjusted to suit personal preferences, aiding in comfort and efficiency.
 
-Available Cursor Styles
+**Editor: Cursor Blinking**
 
-### Editor: Cursor Blinking
+The Editor: `Cursor Blinking` setting in Visual Studio Code controls the blinking behavior of the cursor in the editor. This setting allows users to customize how the cursor appears and blinks, providing flexibility to match individual preferences and improve the coding experience.
 
-Controls the blinking behavior of the cursor in the editor.
+**Visual Code Font Ligatures**
 
-### Visual Code Font Ligatures
+The `Visual Code Font Ligatures` setting in Visual Studio Code enables or disables font ligatures in the editor. Font ligatures are special characters that combine multiple characters into a single glyph, providing a more visually appealing and readable representation of certain character combinations. Enabling font ligatures can enhance the appearance of your code by replacing common character combinations with ligature glyphs, making the code more aesthetically pleasing and easier to read.
 
-Enables or disables font ligatures in the Visual Studio Code editor.
+**Suggest Selection**
 
-### Font Ligatures
+The `Editor: Suggest Selection`setting in Visual Studio Code controls how selections are suggested in the editor. This setting affects the behavior of code suggestions, including autocomplete suggestions, parameter hints, and snippet suggestions. By customizing the suggest selection behavior, you can tailor the editor to your coding preferences and optimize your workflow for
 
-Setting: `Editor: Font Ligatures`
+    Setting	->	Editor: Suggest Selection	->	Vsintellicode › Modify › Editor: Suggest	SelectionautomaticallyOverrodeDefaultValue
 
-Specifies whether font ligatures are enabled in the editor.
+**Editor: Match Brackets**
 
-### Suggest Selection
+The `Editor: Match Brackets` setting in Visual Studio Code specifies whether matching brackets are highlighted in the editor. When enabled, this feature highlights matching opening and closing brackets, parentheses, or braces when the cursor is positioned adjacent to them. This visual cue helps improve code readability and aids in identifying code blocks and nested structures more easily.
 
-Setting: `Editor: Suggest Selection`
+    Setting	->	Editor: Match Brackets	->	near
 
-Controls how selections are suggested in the editor.
+**Unknown At Rules**
 
-### Editor: Match Brackets
+The `Lint: Unknown At Rules` setting in Visual Studio Code controls linting for unknown at-rules in your CSS or SCSS files. At-rules are special instructions in CSS that start with an "@" symbol, such as @media, @font-face, or @keyframes. When enabled, this setting triggers linting warnings or errors when the editor encounters unknown or unsupported at-rules in your stylesheets.
 
-Setting: `Editor: Match Brackets`
+    Setting	->	Lint: Unknown At Rules	->	All is Ignore
 
-Specifies whether matching brackets are highlighted in the editor.
+**Editor: Quick Suggestions**
 
-### Unknown At Rules
-
-Setting: `Lint: Unknown At Rules`
-
-Controls linting for unknown at-rules.
-
-### Editor: Quick Suggestions
-
-Setting: `Editor: Quick Suggestions`
+In addition to enabling quick suggestions globally, you have the option to specify whether suggestions are shown for strings. Enabling suggestions for strings allows the editor to provide auto-completion options when you are typing within string literals, such as HTML attributes, JavaScript string arguments, or CSS property values.
 
 Specifies whether quick suggestions are shown in the editor. You can enable suggestions for strings by setting `strings: true`.
 
-### Bracket Pairs
+**Bracket Pairs**
 
-Setting: `Editor › Guides: Bracket Pairs`
+The "Editor › Guides: Bracket Pairs" setting in Visual Studio Code determines how bracket pairs are displayed in the editor. Bracket pairs, such as parentheses (), square brackets [], and curly braces {}, are essential components of many programming languages and markup formats. Properly displaying bracket pairs enhances code readability and aids in understanding the structure of nested elements within your code.
 
-Determines how bracket pairs are displayed in the editor.
+    Setting ->	Editor › Guides: Bracket Pairs
 
-### Render Whitespace
+**Render Whitespace**
 
-Setting: `Editor: Render Whitespace`
+The `Editor: Render Whitespace` setting in Visual Studio Code offers flexible options for customizing how whitespace characters are displayed in the editor. By choosing the appropriate whitespace rendering option, you can enhance code readability, maintain consistent formatting practices, and identify whitespace-related issues more effectively.
 
-Controls how whitespace characters are rendered in the editor.
+    Setting ->	Editor: Render Whitespace
 
-### Workbench > Tree: Indent
+**Tree Indent**
 
-Setting: `Workbench > Tree: Indent`
+The `Tree Indent` setting in Visual Studio Code specifies the indentation style for the tree view in the workbench. The tree view is a hierarchical representation of files and folders within your project, commonly displayed in the Explorer or File Explorer pane. Indentation enhances the visual hierarchy of items in the tree view, making it easier to understand the folder structure and navigate through project files.
 
-Specifies the indentation style for the tree view in the workbench.
+    Setting	->	Workbench > Tree: Indent
 
-### Compact Folders
+**Compact Folders**
 
-Setting: `Explorer: Compact Folders`
+The `Compact Folders` setting in Visual Studio Code controls whether folders are displayed in a compact style in the Explorer view. The Explorer view provides a hierarchical representation of files and folders within your project, allowing you to navigate and manage project assets efficiently. Compact folder display optimizes space utilization and enhances the readability of the file tree, especially in projects with deeply nested folder structures.
 
-Controls whether folders are displayed in a compact style in the Explorer view.
+    Setting	->	Explorer: Compact Folders
 
-### Snippet Suggestions
+**Snippet Suggestions**
 
-Setting: `Editor: Snippet Suggestions`
+The `Snippet Suggestions` setting in Visual Studio Code controls whether snippet suggestions are shown in the editor. Snippets are predefined code templates that can be inserted into your code files to expedite common coding tasks, such as creating loops, functions, or HTML elements. Enabling snippet suggestions enhances your coding efficiency by providing quick access to these reusable code snippets directly within the editor.
 
-Controls whether snippet suggestions are shown in the editor.
+    Setting	->	Editor: Snippet Suggestions
