@@ -36,19 +36,19 @@ The `Visual Code Font Ligatures` setting in Visual Studio Code enables or disabl
 
 The `Editor: Suggest Selection`setting in Visual Studio Code controls how selections are suggested in the editor. This setting affects the behavior of code suggestions, including autocomplete suggestions, parameter hints, and snippet suggestions. By customizing the suggest selection behavior, you can tailor the editor to your coding preferences and optimize your workflow for
 
-    Setting	->	Editor: Suggest Selection	->	Vsintellicode › Modify › Editor: Suggest	SelectionautomaticallyOverrodeDefaultValue
+    Setting -> Editor: Suggest Selection -> Vsintellicode -> automaticallyOverrodeDefaultValue
 
 **Editor: Match Brackets**
 
 The `Editor: Match Brackets` setting in Visual Studio Code specifies whether matching brackets are highlighted in the editor. When enabled, this feature highlights matching opening and closing brackets, parentheses, or braces when the cursor is positioned adjacent to them. This visual cue helps improve code readability and aids in identifying code blocks and nested structures more easily.
 
-    Setting	->	Editor: Match Brackets	->	near
+    Setting -> Editor: Match Brackets -> near
 
 **Unknown At Rules**
 
 The `Lint: Unknown At Rules` setting in Visual Studio Code controls linting for unknown at-rules in your CSS or SCSS files. At-rules are special instructions in CSS that start with an "@" symbol, such as @media, @font-face, or @keyframes. When enabled, this setting triggers linting warnings or errors when the editor encounters unknown or unsupported at-rules in your stylesheets.
 
-    Setting	->	Lint: Unknown At Rules	->	All is Ignore
+    Setting -> Lint: Unknown At Rules -> All is Ignore
 
 **Editor: Quick Suggestions**
 
@@ -60,28 +60,28 @@ Specifies whether quick suggestions are shown in the editor. You can enable sugg
 
 The "Editor › Guides: Bracket Pairs" setting in Visual Studio Code determines how bracket pairs are displayed in the editor. Bracket pairs, such as parentheses (), square brackets [], and curly braces {}, are essential components of many programming languages and markup formats. Properly displaying bracket pairs enhances code readability and aids in understanding the structure of nested elements within your code.
 
-    Setting ->	Editor › Guides: Bracket Pairs
+    Setting -> Editor › Guides: Bracket Pairs
 
 **Render Whitespace**
 
 The `Editor: Render Whitespace` setting in Visual Studio Code offers flexible options for customizing how whitespace characters are displayed in the editor. By choosing the appropriate whitespace rendering option, you can enhance code readability, maintain consistent formatting practices, and identify whitespace-related issues more effectively.
 
-    Setting ->	Editor: Render Whitespace
+    Setting -> Editor: Render Whitespace
 
 **Tree Indent**
 
 The `Tree Indent` setting in Visual Studio Code specifies the indentation style for the tree view in the workbench. The tree view is a hierarchical representation of files and folders within your project, commonly displayed in the Explorer or File Explorer pane. Indentation enhances the visual hierarchy of items in the tree view, making it easier to understand the folder structure and navigate through project files.
 
-    Setting	->	Workbench > Tree: Indent
+    Setting -> Workbench > Tree: Indent
 
 **Compact Folders**
 
 The `Compact Folders` setting in Visual Studio Code controls whether folders are displayed in a compact style in the Explorer view. The Explorer view provides a hierarchical representation of files and folders within your project, allowing you to navigate and manage project assets efficiently. Compact folder display optimizes space utilization and enhances the readability of the file tree, especially in projects with deeply nested folder structures.
 
-    Setting	->	Explorer: Compact Folders
+    Setting -> Explorer: Compact Folders
 
 **Snippet Suggestions**
 
 The `Snippet Suggestions` setting in Visual Studio Code controls whether snippet suggestions are shown in the editor. Snippets are predefined code templates that can be inserted into your code files to expedite common coding tasks, such as creating loops, functions, or HTML elements. Enabling snippet suggestions enhances your coding efficiency by providing quick access to these reusable code snippets directly within the editor.
 
-    Setting	->	Editor: Snippet Suggestions
+    Setting -> Editor: Snippet Suggestions
